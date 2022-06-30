@@ -3,7 +3,7 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/manumanoj0010/](https://www.linkedin.com/in/shaun-clarke-98b55b23a/)) [![Mail Badge](https://img.shields.io/badge/-Mail-blue&link=mailto:tavelor@email.com)](mailto:tavelor@email.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://shaun-clarke.com/)](http://shaun-clarke.com/)
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/manumanoj0010) ![GitHub User's stars](https://img.shields.io/github/stars/manumanoj0010)
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=Tavelors&label=Profile%20views&color=0e75b6&style=flat" alt="Tavelors" /> ![GitHub followers](https://img.shields.io/github/followers/Tavelors) ![GitHub User's stars](https://img.shields.io/github/stars/Tavelors)
 
 I'm a master's student pursuing my major in Computer Science 🎓 from Arizona State University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
