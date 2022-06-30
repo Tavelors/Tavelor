@@ -21,5 +21,5 @@ I'm currently studying java and c#.
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' /> <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' /> <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' /> <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' /> <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' /> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' /> <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' />
 
 Most recent small project using TypeScript, tailwind css, styled components and twin macro.
-(https://github.com/Tavelors/Typescript-Basic-Task-Adder)
+[GitHub](https://github.com/Tavelors/Typescript-Basic-Task-Adder)
 
