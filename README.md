@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Shaun!](http://shaun-clarke.com/)
 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/manumanoj0010/](https://www.linkedin.com/in/shaun-clarke-98b55b23a/)) [![Mail Badge](https://img.shields.io/badge/-Mail-blue&link=mailto:tavelor@email.com)](mailto:tavelor@email.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://shaun-clarke.com/)](http://shaun-clarke.com/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/manumanoj0010/](https://www.linkedin.com/in/shaun-clarke-98b55b23a/)) [![Mail Badge][![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Mail&logoColor=white&link=mailto:tavelor@email.com)](mailto:tavelor@email.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://shaun-clarke.com/)](http://shaun-clarke.com/)
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=Tavelors&label=Profile%20views&color=0e75b6&style=flat" alt="Tavelors" /> ![GitHub followers](https://img.shields.io/github/followers/Tavelors) ![GitHub User's stars](https://img.shields.io/github/stars/Tavelors)
 
