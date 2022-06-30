@@ -16,7 +16,7 @@ I'm a master's student pursuing my major in Computer Science 🎓 from Arizona S
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
- <a href="https://www.python.org" target="_blank"> <img src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="python" width="30" height="30"/> </a>
+<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
  
  
  
