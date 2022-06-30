@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Shaun!](http://shaun-clarke.com/)
 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:manumanoj0010@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://shaun-clarke.com/)](http://shaun-clarke.com/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/manumanoj0010/](https://www.linkedin.com/in/shaun-clarke-98b55b23a/)) [![Mail Badge](https://img.shields.io/badge/-Mail-blue&link=mailto:tavelor@email.com)](mailto:tavelor@email.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://shaun-clarke.com/)](http://shaun-clarke.com/)
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/manumanoj0010) ![GitHub User's stars](https://img.shields.io/github/stars/manumanoj0010)
 
