@@ -6,7 +6,7 @@
 <!-- ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=Tavelors&label=Profile%20views&color=0e75b6&style=flat" alt="Tavelors" /> ![GitHub followers](https://img.shields.io/github/followers/Tavelors) ![GitHub User's stars](https://img.shields.io/github/stars/Tavelors) -->
 
 I'm a Recent graduate of northcoders pursuing a career in software development. 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
-I'm currently studying c#.
+I'm currently studying C++.
 
 ### More about me:
 
